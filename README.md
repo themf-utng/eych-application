@@ -21,7 +21,7 @@ Para que la aplicacion funcione se necesitan las siguientes variables:
 - **PORT:** `8000`
 
 ## Participantes
-- [Don quintino](https://github.com)
+- [Eduardo Yair Cruz Hernández](https://github.com/themf-utng)
 - [Andres Eduardo Leon Ramos] (https//:github.com/Andree2435)
 
 <img src="https://img.icons8.com/color/1200/api-settings.jpg" width="50%px" height="50%" align="center" alt="hola">
