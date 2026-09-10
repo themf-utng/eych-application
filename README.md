@@ -1,7 +1,7 @@
 # Informacion
-- Nombre:
-- No. Control:
-- Grupo:
+- Nombre: Eduardo Yair Cruz Hernández
+- No. Control: 1224100852
+- Grupo: GTI174
 
 ## Especificaciones del proyecto
 | nombre del proyecto | Framework | versión |
