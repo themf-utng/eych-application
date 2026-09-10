@@ -22,6 +22,7 @@ Para que la aplicacion funcione se necesitan las siguientes variables:
 
 ## Participantes
 - [Don quintino](https://github.com)
+- [Andres Eduardo Leon Ramos] (https//:github.com/Andree2435)
 
 <img src="https://img.icons8.com/color/1200/api-settings.jpg" width="50%px" height="50%" align="center" alt="hola">
 
